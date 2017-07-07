@@ -18,10 +18,17 @@ matplotlib
 numpy
 ```
 
-You can install them using pip by running something like:
+You can install them using pip by running something like below
+
+Windows: Open the annaconda prompt, remebering to run as admin
 ```
-windows: open the annaconda prompt, remebering to run as admin, and type: `pip install ipyleaflet`
-linux: sudo -H pip install ipyleaflet
+pip install ipyleaflet
+```
+Linux:
+```
+sudo -H pip install ipyleaflet
+or, if you have both python2 and 3 and need to install it with python3
+sudo -H pip3 install ipyleaflet
 ``` 
 
 ## using it
