@@ -27,7 +27,9 @@ pip install ipyleaflet
 Linux:
 ```
 sudo -H pip install ipyleaflet
-or, if you have both python2 and 3 and need to install it with python3
+```
+or, if you have both python2 and 3 and need to install it with 
+```
 sudo -H pip3 install ipyleaflet
 ```
 
