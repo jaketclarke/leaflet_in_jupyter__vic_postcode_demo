@@ -2,6 +2,9 @@
 
 This project is a short demo using Jupyter notebooks to clean up some data and make a leaflet map
 
+Final product is a map that looks like this, visualising some data by Victorian postcode:
+![image sholud go here](final_map.png)
+
 ## Getting Started
 
 ### Prerequisites
